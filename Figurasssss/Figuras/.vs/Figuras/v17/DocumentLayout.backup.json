@@ -1,0 +1,1024 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\Downloads\\Figurasssss\\Figuras\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{431894BC-B8EA-4DD3-8CC1-667B7E61A7A7}|Figuras\\Figuras.csproj|C:\\Users\\User\\Downloads\\Figurasssss\\Figuras\\figuras\\frmtrapezoid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{431894BC-B8EA-4DD3-8CC1-667B7E61A7A7}|Figuras\\Figuras.csproj|solutionrelative:figuras\\frmtrapezoid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{431894BC-B8EA-4DD3-8CC1-667B7E61A7A7}|Figuras\\Figuras.csproj|C:\\Users\\User\\Downloads\\Figurasssss\\Figuras\\figuras\\frmtrapezoid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{431894BC-B8EA-4DD3-8CC1-667B7E61A7A7}|Figuras\\Figuras.csproj|solutionrelative:figuras\\frmtrapezoid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{431894BC-B8EA-4DD3-8CC1-667B7E61A7A7}|Figuras\\Figuras.csproj|C:\\Users\\User\\Downloads\\Figurasssss\\Figuras\\figuras\\ctrapezoid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{431894BC-B8EA-4DD3-8CC1-667B7E61A7A7}|Figuras\\Figuras.csproj|solutionrelative:figuras\\ctrapezoid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{431894BC-B8EA-4DD3-8CC1-667B7E61A7A7}|Figuras\\Figuras.csproj|C:\\Users\\User\\Downloads\\Figurasssss\\Figuras\\figuras\\ctrapecio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{431894BC-B8EA-4DD3-8CC1-667B7E61A7A7}|Figuras\\Figuras.csproj|solutionrelative:figuras\\ctrapecio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{431894BC-B8EA-4DD3-8CC1-667B7E61A7A7}|Figuras\\Figuras.csproj|C:\\Users\\User\\Downloads\\Figurasssss\\Figuras\\figuras\\frmtrapecio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{431894BC-B8EA-4DD3-8CC1-667B7E61A7A7}|Figuras\\Figuras.csproj|solutionrelative:figuras\\frmtrapecio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{431894BC-B8EA-4DD3-8CC1-667B7E61A7A7}|Figuras\\Figuras.csproj|C:\\Users\\User\\Downloads\\Figurasssss\\Figuras\\figuras\\frmtrapecio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{431894BC-B8EA-4DD3-8CC1-667B7E61A7A7}|Figuras\\Figuras.csproj|solutionrelative:figuras\\frmtrapecio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{431894BC-B8EA-4DD3-8CC1-667B7E61A7A7}|Figuras\\Figuras.csproj|C:\\Users\\User\\Downloads\\Figurasssss\\Figuras\\figuras\\frmsquare.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{431894BC-B8EA-4DD3-8CC1-667B7E61A7A7}|Figuras\\Figuras.csproj|solutionrelative:figuras\\frmsquare.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{431894BC-B8EA-4DD3-8CC1-667B7E61A7A7}|Figuras\\Figuras.csproj|C:\\Users\\User\\Downloads\\Figurasssss\\Figuras\\figuras\\frmrhombus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{431894BC-B8EA-4DD3-8CC1-667B7E61A7A7}|Figuras\\Figuras.csproj|solutionrelative:figuras\\frmrhombus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{431894BC-B8EA-4DD3-8CC1-667B7E61A7A7}|Figuras\\Figuras.csproj|C:\\Users\\User\\Downloads\\Figurasssss\\Figuras\\figuras\\frmrhomboid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{431894BC-B8EA-4DD3-8CC1-667B7E61A7A7}|Figuras\\Figuras.csproj|solutionrelative:figuras\\frmrhomboid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{431894BC-B8EA-4DD3-8CC1-667B7E61A7A7}|Figuras\\Figuras.csproj|C:\\Users\\User\\Downloads\\Figurasssss\\Figuras\\figuras\\frmrhomboid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{431894BC-B8EA-4DD3-8CC1-667B7E61A7A7}|Figuras\\Figuras.csproj|solutionrelative:figuras\\frmrhomboid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{431894BC-B8EA-4DD3-8CC1-667B7E61A7A7}|Figuras\\Figuras.csproj|C:\\Users\\User\\Downloads\\Figurasssss\\Figuras\\figuras\\frmoval.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{431894BC-B8EA-4DD3-8CC1-667B7E61A7A7}|Figuras\\Figuras.csproj|solutionrelative:figuras\\frmoval.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{431894BC-B8EA-4DD3-8CC1-667B7E61A7A7}|Figuras\\Figuras.csproj|C:\\Users\\User\\Downloads\\Figurasssss\\Figuras\\figuras\\frmoval.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{431894BC-B8EA-4DD3-8CC1-667B7E61A7A7}|Figuras\\Figuras.csproj|solutionrelative:figuras\\frmoval.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{431894BC-B8EA-4DD3-8CC1-667B7E61A7A7}|Figuras\\Figuras.csproj|C:\\Users\\User\\Downloads\\Figurasssss\\Figuras\\figuras\\frmpentagon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{431894BC-B8EA-4DD3-8CC1-667B7E61A7A7}|Figuras\\Figuras.csproj|solutionrelative:figuras\\frmpentagon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{431894BC-B8EA-4DD3-8CC1-667B7E61A7A7}|Figuras\\Figuras.csproj|C:\\Users\\User\\Downloads\\Figurasssss\\Figuras\\figuras\\frmpentagon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{431894BC-B8EA-4DD3-8CC1-667B7E61A7A7}|Figuras\\Figuras.csproj|solutionrelative:figuras\\frmpentagon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{431894BC-B8EA-4DD3-8CC1-667B7E61A7A7}|Figuras\\Figuras.csproj|C:\\Users\\User\\Downloads\\Figurasssss\\Figuras\\figuras\\frmoctagon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{431894BC-B8EA-4DD3-8CC1-667B7E61A7A7}|Figuras\\Figuras.csproj|solutionrelative:figuras\\frmoctagon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{431894BC-B8EA-4DD3-8CC1-667B7E61A7A7}|Figuras\\Figuras.csproj|C:\\Users\\User\\Downloads\\Figurasssss\\Figuras\\figuras\\frmoctagon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{431894BC-B8EA-4DD3-8CC1-667B7E61A7A7}|Figuras\\Figuras.csproj|solutionrelative:figuras\\frmoctagon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{431894BC-B8EA-4DD3-8CC1-667B7E61A7A7}|Figuras\\Figuras.csproj|C:\\Users\\User\\Downloads\\Figurasssss\\Figuras\\figuras\\frmisoscelestrapezoid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{431894BC-B8EA-4DD3-8CC1-667B7E61A7A7}|Figuras\\Figuras.csproj|solutionrelative:figuras\\frmisoscelestrapezoid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{431894BC-B8EA-4DD3-8CC1-667B7E61A7A7}|Figuras\\Figuras.csproj|C:\\Users\\User\\Downloads\\Figurasssss\\Figuras\\figuras\\frmhexagon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{431894BC-B8EA-4DD3-8CC1-667B7E61A7A7}|Figuras\\Figuras.csproj|solutionrelative:figuras\\frmhexagon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{431894BC-B8EA-4DD3-8CC1-667B7E61A7A7}|Figuras\\Figuras.csproj|C:\\Users\\User\\Downloads\\Figurasssss\\Figuras\\figuras\\frmisoscelestrapezoid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{431894BC-B8EA-4DD3-8CC1-667B7E61A7A7}|Figuras\\Figuras.csproj|solutionrelative:figuras\\frmisoscelestrapezoid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{431894BC-B8EA-4DD3-8CC1-667B7E61A7A7}|Figuras\\Figuras.csproj|C:\\Users\\User\\Downloads\\Figurasssss\\Figuras\\figuras\\frmheptagon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{431894BC-B8EA-4DD3-8CC1-667B7E61A7A7}|Figuras\\Figuras.csproj|solutionrelative:figuras\\frmheptagon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{431894BC-B8EA-4DD3-8CC1-667B7E61A7A7}|Figuras\\Figuras.csproj|C:\\Users\\User\\Downloads\\Figurasssss\\Figuras\\figuras\\frmheptagon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{431894BC-B8EA-4DD3-8CC1-667B7E61A7A7}|Figuras\\Figuras.csproj|solutionrelative:figuras\\frmheptagon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{431894BC-B8EA-4DD3-8CC1-667B7E61A7A7}|Figuras\\Figuras.csproj|C:\\Users\\User\\Downloads\\Figurasssss\\Figuras\\figuras\\frmhexagon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{431894BC-B8EA-4DD3-8CC1-667B7E61A7A7}|Figuras\\Figuras.csproj|solutionrelative:figuras\\frmhexagon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{431894BC-B8EA-4DD3-8CC1-667B7E61A7A7}|Figuras\\Figuras.csproj|C:\\Users\\User\\Downloads\\Figurasssss\\Figuras\\figuras\\frmenneagon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{431894BC-B8EA-4DD3-8CC1-667B7E61A7A7}|Figuras\\Figuras.csproj|solutionrelative:figuras\\frmenneagon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{431894BC-B8EA-4DD3-8CC1-667B7E61A7A7}|Figuras\\Figuras.csproj|C:\\Users\\User\\Downloads\\Figurasssss\\Figuras\\figuras\\frmenneagon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{431894BC-B8EA-4DD3-8CC1-667B7E61A7A7}|Figuras\\Figuras.csproj|solutionrelative:figuras\\frmenneagon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{431894BC-B8EA-4DD3-8CC1-667B7E61A7A7}|Figuras\\Figuras.csproj|C:\\Users\\User\\Downloads\\Figurasssss\\Figuras\\figuras\\frmprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{431894BC-B8EA-4DD3-8CC1-667B7E61A7A7}|Figuras\\Figuras.csproj|solutionrelative:figuras\\frmprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{431894BC-B8EA-4DD3-8CC1-667B7E61A7A7}|Figuras\\Figuras.csproj|C:\\Users\\User\\Downloads\\Figurasssss\\Figuras\\figuras\\frmprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{431894BC-B8EA-4DD3-8CC1-667B7E61A7A7}|Figuras\\Figuras.csproj|solutionrelative:figuras\\frmprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{431894BC-B8EA-4DD3-8CC1-667B7E61A7A7}|Figuras\\Figuras.csproj|C:\\Users\\User\\Downloads\\Figurasssss\\Figuras\\figuras\\cenneagon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{431894BC-B8EA-4DD3-8CC1-667B7E61A7A7}|Figuras\\Figuras.csproj|solutionrelative:figuras\\cenneagon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{431894BC-B8EA-4DD3-8CC1-667B7E61A7A7}|Figuras\\Figuras.csproj|C:\\Users\\User\\Downloads\\Figurasssss\\Figuras\\figuras\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{431894BC-B8EA-4DD3-8CC1-667B7E61A7A7}|Figuras\\Figuras.csproj|solutionrelative:figuras\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{431894BC-B8EA-4DD3-8CC1-667B7E61A7A7}|Figuras\\Figuras.csproj|C:\\Users\\User\\Downloads\\Figurasssss\\Figuras\\figuras\\frmellipse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{431894BC-B8EA-4DD3-8CC1-667B7E61A7A7}|Figuras\\Figuras.csproj|solutionrelative:figuras\\frmellipse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{431894BC-B8EA-4DD3-8CC1-667B7E61A7A7}|Figuras\\Figuras.csproj|C:\\Users\\User\\Downloads\\Figurasssss\\Figuras\\figuras\\frmellipse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{431894BC-B8EA-4DD3-8CC1-667B7E61A7A7}|Figuras\\Figuras.csproj|solutionrelative:figuras\\frmellipse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{431894BC-B8EA-4DD3-8CC1-667B7E61A7A7}|Figuras\\Figuras.csproj|C:\\Users\\User\\Downloads\\Figurasssss\\Figuras\\figuras\\frmdeltoid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{431894BC-B8EA-4DD3-8CC1-667B7E61A7A7}|Figuras\\Figuras.csproj|solutionrelative:figuras\\frmdeltoid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{431894BC-B8EA-4DD3-8CC1-667B7E61A7A7}|Figuras\\Figuras.csproj|C:\\Users\\User\\Downloads\\Figurasssss\\Figuras\\figuras\\frmdeltoid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{431894BC-B8EA-4DD3-8CC1-667B7E61A7A7}|Figuras\\Figuras.csproj|solutionrelative:figuras\\frmdeltoid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{431894BC-B8EA-4DD3-8CC1-667B7E61A7A7}|Figuras\\Figuras.csproj|C:\\Users\\User\\Downloads\\Figurasssss\\Figuras\\figuras\\frmdecagon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{431894BC-B8EA-4DD3-8CC1-667B7E61A7A7}|Figuras\\Figuras.csproj|solutionrelative:figuras\\frmdecagon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{431894BC-B8EA-4DD3-8CC1-667B7E61A7A7}|Figuras\\Figuras.csproj|C:\\Users\\User\\Downloads\\Figurasssss\\Figuras\\figuras\\frmdecagon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{431894BC-B8EA-4DD3-8CC1-667B7E61A7A7}|Figuras\\Figuras.csproj|solutionrelative:figuras\\frmdecagon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{431894BC-B8EA-4DD3-8CC1-667B7E61A7A7}|Figuras\\Figuras.csproj|C:\\Users\\User\\Downloads\\Figurasssss\\Figuras\\figuras\\frmcircle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{431894BC-B8EA-4DD3-8CC1-667B7E61A7A7}|Figuras\\Figuras.csproj|solutionrelative:figuras\\frmcircle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{431894BC-B8EA-4DD3-8CC1-667B7E61A7A7}|Figuras\\Figuras.csproj|C:\\Users\\User\\Downloads\\Figurasssss\\Figuras\\figuras\\frmcircle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{431894BC-B8EA-4DD3-8CC1-667B7E61A7A7}|Figuras\\Figuras.csproj|solutionrelative:figuras\\frmcircle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{431894BC-B8EA-4DD3-8CC1-667B7E61A7A7}|Figuras\\Figuras.csproj|C:\\Users\\User\\Downloads\\Figurasssss\\Figuras\\figuras\\ccircle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{431894BC-B8EA-4DD3-8CC1-667B7E61A7A7}|Figuras\\Figuras.csproj|solutionrelative:figuras\\ccircle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{431894BC-B8EA-4DD3-8CC1-667B7E61A7A7}|Figuras\\Figuras.csproj|c:\\users\\user\\downloads\\figurasssss\\figuras\\figuras\\frmtriangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{431894BC-B8EA-4DD3-8CC1-667B7E61A7A7}|Figuras\\Figuras.csproj|solutionrelative:figuras\\frmtriangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{431894BC-B8EA-4DD3-8CC1-667B7E61A7A7}|Figuras\\Figuras.csproj|C:\\Users\\User\\Downloads\\Figurasssss\\Figuras\\figuras\\frmtriangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{431894BC-B8EA-4DD3-8CC1-667B7E61A7A7}|Figuras\\Figuras.csproj|solutionrelative:figuras\\frmtriangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{431894BC-B8EA-4DD3-8CC1-667B7E61A7A7}|Figuras\\Figuras.csproj|C:\\Users\\User\\Downloads\\Figurasssss\\Figuras\\figuras\\frmsquare.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{431894BC-B8EA-4DD3-8CC1-667B7E61A7A7}|Figuras\\Figuras.csproj|solutionrelative:figuras\\frmsquare.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{431894BC-B8EA-4DD3-8CC1-667B7E61A7A7}|Figuras\\Figuras.csproj|C:\\Users\\User\\Downloads\\Figurasssss\\Figuras\\figuras\\frmrhombus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{431894BC-B8EA-4DD3-8CC1-667B7E61A7A7}|Figuras\\Figuras.csproj|solutionrelative:figuras\\frmrhombus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{431894BC-B8EA-4DD3-8CC1-667B7E61A7A7}|Figuras\\Figuras.csproj|C:\\Users\\User\\Downloads\\Figurasssss\\Figuras\\figuras\\frmrectangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{431894BC-B8EA-4DD3-8CC1-667B7E61A7A7}|Figuras\\Figuras.csproj|solutionrelative:figuras\\frmrectangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{431894BC-B8EA-4DD3-8CC1-667B7E61A7A7}|Figuras\\Figuras.csproj|C:\\Users\\User\\Downloads\\Figurasssss\\Figuras\\figuras\\chexagon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{431894BC-B8EA-4DD3-8CC1-667B7E61A7A7}|Figuras\\Figuras.csproj|solutionrelative:figuras\\chexagon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{431894BC-B8EA-4DD3-8CC1-667B7E61A7A7}|Figuras\\Figuras.csproj|C:\\Users\\User\\Downloads\\Figurasssss\\Figuras\\figuras\\cdecagon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{431894BC-B8EA-4DD3-8CC1-667B7E61A7A7}|Figuras\\Figuras.csproj|solutionrelative:figuras\\cdecagon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{431894BC-B8EA-4DD3-8CC1-667B7E61A7A7}|Figuras\\Figuras.csproj|C:\\Users\\User\\Downloads\\Figurasssss\\Figuras\\figuras\\frmprincipal.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{431894BC-B8EA-4DD3-8CC1-667B7E61A7A7}|Figuras\\Figuras.csproj|solutionrelative:figuras\\frmprincipal.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{431894BC-B8EA-4DD3-8CC1-667B7E61A7A7}|Figuras\\Figuras.csproj|C:\\Users\\User\\Downloads\\Figurasssss\\Figuras\\figuras\\csquare.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{431894BC-B8EA-4DD3-8CC1-667B7E61A7A7}|Figuras\\Figuras.csproj|solutionrelative:figuras\\csquare.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{431894BC-B8EA-4DD3-8CC1-667B7E61A7A7}|Figuras\\Figuras.csproj|C:\\Users\\User\\Downloads\\Figurasssss\\Figuras\\figuras\\ctriangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{431894BC-B8EA-4DD3-8CC1-667B7E61A7A7}|Figuras\\Figuras.csproj|solutionrelative:figuras\\ctriangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{431894BC-B8EA-4DD3-8CC1-667B7E61A7A7}|Figuras\\Figuras.csproj|C:\\Users\\User\\Downloads\\Figurasssss\\Figuras\\figuras\\crhomboid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{431894BC-B8EA-4DD3-8CC1-667B7E61A7A7}|Figuras\\Figuras.csproj|solutionrelative:figuras\\crhomboid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{431894BC-B8EA-4DD3-8CC1-667B7E61A7A7}|Figuras\\Figuras.csproj|C:\\Users\\User\\Downloads\\Figurasssss\\Figuras\\figuras\\crhombus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{431894BC-B8EA-4DD3-8CC1-667B7E61A7A7}|Figuras\\Figuras.csproj|solutionrelative:figuras\\crhombus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{431894BC-B8EA-4DD3-8CC1-667B7E61A7A7}|Figuras\\Figuras.csproj|C:\\Users\\User\\Downloads\\Figurasssss\\Figuras\\figuras\\crectangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{431894BC-B8EA-4DD3-8CC1-667B7E61A7A7}|Figuras\\Figuras.csproj|solutionrelative:figuras\\crectangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{431894BC-B8EA-4DD3-8CC1-667B7E61A7A7}|Figuras\\Figuras.csproj|C:\\Users\\User\\Downloads\\Figurasssss\\Figuras\\figuras\\cpentagon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{431894BC-B8EA-4DD3-8CC1-667B7E61A7A7}|Figuras\\Figuras.csproj|solutionrelative:figuras\\cpentagon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{431894BC-B8EA-4DD3-8CC1-667B7E61A7A7}|Figuras\\Figuras.csproj|C:\\Users\\User\\Downloads\\Figurasssss\\Figuras\\figuras\\coval.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{431894BC-B8EA-4DD3-8CC1-667B7E61A7A7}|Figuras\\Figuras.csproj|solutionrelative:figuras\\coval.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{431894BC-B8EA-4DD3-8CC1-667B7E61A7A7}|Figuras\\Figuras.csproj|C:\\Users\\User\\Downloads\\Figurasssss\\Figuras\\figuras\\coctagon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{431894BC-B8EA-4DD3-8CC1-667B7E61A7A7}|Figuras\\Figuras.csproj|solutionrelative:figuras\\coctagon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{431894BC-B8EA-4DD3-8CC1-667B7E61A7A7}|Figuras\\Figuras.csproj|C:\\Users\\User\\Downloads\\Figurasssss\\Figuras\\figuras\\cisoscelestrapezoid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{431894BC-B8EA-4DD3-8CC1-667B7E61A7A7}|Figuras\\Figuras.csproj|solutionrelative:figuras\\cisoscelestrapezoid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{431894BC-B8EA-4DD3-8CC1-667B7E61A7A7}|Figuras\\Figuras.csproj|C:\\Users\\User\\Downloads\\Figurasssss\\Figuras\\figuras\\cheptagon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{431894BC-B8EA-4DD3-8CC1-667B7E61A7A7}|Figuras\\Figuras.csproj|solutionrelative:figuras\\cheptagon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{431894BC-B8EA-4DD3-8CC1-667B7E61A7A7}|Figuras\\Figuras.csproj|C:\\Users\\User\\Downloads\\Figurasssss\\Figuras\\figuras\\cellipse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{431894BC-B8EA-4DD3-8CC1-667B7E61A7A7}|Figuras\\Figuras.csproj|solutionrelative:figuras\\cellipse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{431894BC-B8EA-4DD3-8CC1-667B7E61A7A7}|Figuras\\Figuras.csproj|C:\\Users\\User\\Downloads\\Figurasssss\\Figuras\\figuras\\cdeltoid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{431894BC-B8EA-4DD3-8CC1-667B7E61A7A7}|Figuras\\Figuras.csproj|solutionrelative:figuras\\cdeltoid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{431894BC-B8EA-4DD3-8CC1-667B7E61A7A7}|Figuras\\Figuras.csproj|C:\\Users\\User\\Downloads\\Figurasssss\\Figuras\\figuras\\frmrectangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{431894BC-B8EA-4DD3-8CC1-667B7E61A7A7}|Figuras\\Figuras.csproj|solutionrelative:figuras\\frmrectangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{431894BC-B8EA-4DD3-8CC1-667B7E61A7A7}|Figuras\\Figuras.csproj|C:\\Users\\User\\Downloads\\Figurasssss\\Figuras\\figuras\\frmrectangle.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{431894BC-B8EA-4DD3-8CC1-667B7E61A7A7}|Figuras\\Figuras.csproj|solutionrelative:figuras\\frmrectangle.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|Figuras||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 274,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 816,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{131369f2-062d-44a2-8671-91ff31efb4f4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{269a02dc-6af8-11d3-bdc4-00c04f688e50}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FrmTrapezoid.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Downloads\\Figurasssss\\Figuras\\Figuras\\FrmTrapezoid.cs",
+              "RelativeDocumentMoniker": "Figuras\\FrmTrapezoid.cs",
+              "ToolTip": "C:\\Users\\User\\Downloads\\Figurasssss\\Figuras\\Figuras\\FrmTrapezoid.cs",
+              "RelativeToolTip": "Figuras\\FrmTrapezoid.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAcwBIAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T22:40:59.889Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FrmTrapecio.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Downloads\\Figurasssss\\Figuras\\Figuras\\FrmTrapecio.cs",
+              "RelativeDocumentMoniker": "Figuras\\FrmTrapecio.cs",
+              "ToolTip": "C:\\Users\\User\\Downloads\\Figurasssss\\Figuras\\Figuras\\FrmTrapecio.cs",
+              "RelativeToolTip": "Figuras\\FrmTrapecio.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAD4vxcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T22:40:56.933Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FrmRhombus.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Downloads\\Figurasssss\\Figuras\\Figuras\\FrmRhombus.cs",
+              "RelativeDocumentMoniker": "Figuras\\FrmRhombus.cs",
+              "ToolTip": "C:\\Users\\User\\Downloads\\Figurasssss\\Figuras\\Figuras\\FrmRhombus.cs",
+              "RelativeToolTip": "Figuras\\FrmRhombus.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAjwBcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T22:40:51.05Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "FrmRhomboid.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Downloads\\Figurasssss\\Figuras\\Figuras\\FrmRhomboid.cs",
+              "RelativeDocumentMoniker": "Figuras\\FrmRhomboid.cs",
+              "ToolTip": "C:\\Users\\User\\Downloads\\Figurasssss\\Figuras\\Figuras\\FrmRhomboid.cs",
+              "RelativeToolTip": "Figuras\\FrmRhomboid.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAjwBcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T22:40:48.32Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "FrmPentagon.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Downloads\\Figurasssss\\Figuras\\Figuras\\FrmPentagon.cs",
+              "RelativeDocumentMoniker": "Figuras\\FrmPentagon.cs",
+              "ToolTip": "C:\\Users\\User\\Downloads\\Figurasssss\\Figuras\\Figuras\\FrmPentagon.cs",
+              "RelativeToolTip": "Figuras\\FrmPentagon.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAjwBoAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T22:40:40.364Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "FrmOctagon.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Downloads\\Figurasssss\\Figuras\\Figuras\\FrmOctagon.cs",
+              "RelativeDocumentMoniker": "Figuras\\FrmOctagon.cs",
+              "ToolTip": "C:\\Users\\User\\Downloads\\Figurasssss\\Figuras\\Figuras\\FrmOctagon.cs",
+              "RelativeToolTip": "Figuras\\FrmOctagon.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAjwBgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T22:40:34.637Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "FrmIsoscelesTrapezoid.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Downloads\\Figurasssss\\Figuras\\Figuras\\FrmIsoscelesTrapezoid.cs",
+              "RelativeDocumentMoniker": "Figuras\\FrmIsoscelesTrapezoid.cs",
+              "ToolTip": "C:\\Users\\User\\Downloads\\Figurasssss\\Figuras\\Figuras\\FrmIsoscelesTrapezoid.cs",
+              "RelativeToolTip": "Figuras\\FrmIsoscelesTrapezoid.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAjwBcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T22:40:31.108Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "FrmHexagon.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Downloads\\Figurasssss\\Figuras\\Figuras\\FrmHexagon.cs",
+              "RelativeDocumentMoniker": "Figuras\\FrmHexagon.cs",
+              "ToolTip": "C:\\Users\\User\\Downloads\\Figurasssss\\Figuras\\Figuras\\FrmHexagon.cs",
+              "RelativeToolTip": "Figuras\\FrmHexagon.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAjwBYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T22:40:28.144Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "FrmHeptagon.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Downloads\\Figurasssss\\Figuras\\Figuras\\FrmHeptagon.cs",
+              "RelativeDocumentMoniker": "Figuras\\FrmHeptagon.cs",
+              "ToolTip": "C:\\Users\\User\\Downloads\\Figurasssss\\Figuras\\Figuras\\FrmHeptagon.cs",
+              "RelativeToolTip": "Figuras\\FrmHeptagon.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAjwBgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T22:40:24.815Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "FrmEllipse.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Downloads\\Figurasssss\\Figuras\\Figuras\\FrmEllipse.cs",
+              "RelativeDocumentMoniker": "Figuras\\FrmEllipse.cs",
+              "ToolTip": "C:\\Users\\User\\Downloads\\Figurasssss\\Figuras\\Figuras\\FrmEllipse.cs",
+              "RelativeToolTip": "Figuras\\FrmEllipse.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAjwBsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T22:40:18.458Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "FrmDeltoid.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Downloads\\Figurasssss\\Figuras\\Figuras\\FrmDeltoid.cs",
+              "RelativeDocumentMoniker": "Figuras\\FrmDeltoid.cs",
+              "ToolTip": "C:\\Users\\User\\Downloads\\Figurasssss\\Figuras\\Figuras\\FrmDeltoid.cs",
+              "RelativeToolTip": "Figuras\\FrmDeltoid.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAjwBcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T22:40:15.624Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "FrmDecagon.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Downloads\\Figurasssss\\Figuras\\Figuras\\FrmDecagon.cs",
+              "RelativeDocumentMoniker": "Figuras\\FrmDecagon.cs",
+              "ToolTip": "C:\\Users\\User\\Downloads\\Figurasssss\\Figuras\\Figuras\\FrmDecagon.cs",
+              "RelativeToolTip": "Figuras\\FrmDecagon.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAswBgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T22:40:12.915Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "FrmCircle.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Downloads\\Figurasssss\\Figuras\\Figuras\\FrmCircle.cs",
+              "RelativeDocumentMoniker": "Figuras\\FrmCircle.cs",
+              "ToolTip": "C:\\Users\\User\\Downloads\\Figurasssss\\Figuras\\Figuras\\FrmCircle.cs",
+              "RelativeToolTip": "Figuras\\FrmCircle.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAjwBcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T22:40:09.948Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "FrmTriangle.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Downloads\\Figurasssss\\Figuras\\Figuras\\FrmTriangle.cs",
+              "RelativeDocumentMoniker": "Figuras\\FrmTriangle.cs",
+              "ToolTip": "C:\\Users\\User\\Downloads\\Figurasssss\\Figuras\\Figuras\\FrmTriangle.cs",
+              "RelativeToolTip": "Figuras\\FrmTriangle.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T22:40:04.449Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "FrmEnneagon.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Downloads\\Figurasssss\\Figuras\\Figuras\\FrmEnneagon.cs",
+              "RelativeDocumentMoniker": "Figuras\\FrmEnneagon.cs",
+              "ToolTip": "C:\\Users\\User\\Downloads\\Figurasssss\\Figuras\\Figuras\\FrmEnneagon.cs",
+              "RelativeToolTip": "Figuras\\FrmEnneagon.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAcwB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T19:03:14.58Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "FrmOval.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Downloads\\Figurasssss\\Figuras\\Figuras\\FrmOval.cs",
+              "RelativeDocumentMoniker": "Figuras\\FrmOval.cs",
+              "ToolTip": "C:\\Users\\User\\Downloads\\Figurasssss\\Figuras\\Figuras\\FrmOval.cs",
+              "RelativeToolTip": "Figuras\\FrmOval.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAIA4wBwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T19:01:06.267Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FrmSquare.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Downloads\\Figurasssss\\Figuras\\Figuras\\FrmSquare.cs",
+              "RelativeDocumentMoniker": "Figuras\\FrmSquare.cs",
+              "ToolTip": "C:\\Users\\User\\Downloads\\Figurasssss\\Figuras\\Figuras\\FrmSquare.cs",
+              "RelativeToolTip": "Figuras\\FrmSquare.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAewB0AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T18:41:35.118Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "FrmDeltoid.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\User\\Downloads\\Figurasssss\\Figuras\\Figuras\\FrmDeltoid.cs",
+              "RelativeDocumentMoniker": "Figuras\\FrmDeltoid.cs",
+              "ToolTip": "C:\\Users\\User\\Downloads\\Figurasssss\\Figuras\\Figuras\\FrmDeltoid.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Figuras\\FrmDeltoid.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T17:56:25.333Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "CHexagon.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Downloads\\Figurasssss\\Figuras\\Figuras\\CHexagon.cs",
+              "RelativeDocumentMoniker": "Figuras\\CHexagon.cs",
+              "ToolTip": "C:\\Users\\User\\Downloads\\Figurasssss\\Figuras\\Figuras\\CHexagon.cs",
+              "RelativeToolTip": "Figuras\\CHexagon.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAQwDAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T17:25:54.498Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "FrmSquare.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\User\\Downloads\\Figurasssss\\Figuras\\Figuras\\FrmSquare.cs",
+              "RelativeDocumentMoniker": "Figuras\\FrmSquare.cs",
+              "ToolTip": "C:\\Users\\User\\Downloads\\Figurasssss\\Figuras\\Figuras\\FrmSquare.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Figuras\\FrmSquare.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T18:19:38.041Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "FrmPrincipal.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Downloads\\Figurasssss\\Figuras\\Figuras\\FrmPrincipal.Designer.cs",
+              "RelativeDocumentMoniker": "Figuras\\FrmPrincipal.Designer.cs",
+              "ToolTip": "C:\\Users\\User\\Downloads\\Figurasssss\\Figuras\\Figuras\\FrmPrincipal.Designer.cs",
+              "RelativeToolTip": "Figuras\\FrmPrincipal.Designer.cs",
+              "ViewState": "AgIAAG0AAAAAAAAAAAAvwHwAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T18:03:28.66Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "FrmPrincipal.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Downloads\\Figurasssss\\Figuras\\Figuras\\FrmPrincipal.cs",
+              "RelativeDocumentMoniker": "Figuras\\FrmPrincipal.cs",
+              "ToolTip": "C:\\Users\\User\\Downloads\\Figurasssss\\Figuras\\Figuras\\FrmPrincipal.cs",
+              "RelativeToolTip": "Figuras\\FrmPrincipal.cs",
+              "ViewState": "AgIAAHQAAAAAAAAAAAAkwIcAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T18:02:54.312Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "FrmPrincipal.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\User\\Downloads\\Figurasssss\\Figuras\\Figuras\\FrmPrincipal.cs",
+              "RelativeDocumentMoniker": "Figuras\\FrmPrincipal.cs",
+              "ToolTip": "C:\\Users\\User\\Downloads\\Figurasssss\\Figuras\\Figuras\\FrmPrincipal.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Figuras\\FrmPrincipal.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T18:02:03.183Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "FrmIsoscelesTrapezoid.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\User\\Downloads\\Figurasssss\\Figuras\\Figuras\\FrmIsoscelesTrapezoid.cs",
+              "RelativeDocumentMoniker": "Figuras\\FrmIsoscelesTrapezoid.cs",
+              "ToolTip": "C:\\Users\\User\\Downloads\\Figurasssss\\Figuras\\Figuras\\FrmIsoscelesTrapezoid.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Figuras\\FrmIsoscelesTrapezoid.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T18:01:25.536Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "FrmHeptagon.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\User\\Downloads\\Figurasssss\\Figuras\\Figuras\\FrmHeptagon.cs",
+              "RelativeDocumentMoniker": "Figuras\\FrmHeptagon.cs",
+              "ToolTip": "C:\\Users\\User\\Downloads\\Figurasssss\\Figuras\\Figuras\\FrmHeptagon.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Figuras\\FrmHeptagon.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T18:00:28.929Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "FrmTriangle.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\User\\Downloads\\Figurasssss\\Figuras\\Figuras\\FrmTriangle.cs",
+              "RelativeDocumentMoniker": "Figuras\\FrmTriangle.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\5to\\GR\u00C1FICA\\Parcial 1\\Taller 2\\Figuras\\Figuras\\FrmTriangle.cs [Dise\u00F1o]",
+              "RelativeToolTip": "..\\..\\..\\Desktop\\5to\\GR\u00C1FICA\\Parcial 1\\Taller 2\\Figuras\\Figuras\\FrmTriangle.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T18:00:02.545Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FrmTrapezoid.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\User\\Downloads\\Figurasssss\\Figuras\\Figuras\\FrmTrapezoid.cs",
+              "RelativeDocumentMoniker": "Figuras\\FrmTrapezoid.cs",
+              "ToolTip": "C:\\Users\\User\\Downloads\\Figurasssss\\Figuras\\Figuras\\FrmTrapezoid.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Figuras\\FrmTrapezoid.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T17:59:29.951Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FrmTrapecio.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\User\\Downloads\\Figurasssss\\Figuras\\Figuras\\FrmTrapecio.cs",
+              "RelativeDocumentMoniker": "Figuras\\FrmTrapecio.cs",
+              "ToolTip": "C:\\Users\\User\\Downloads\\Figurasssss\\Figuras\\Figuras\\FrmTrapecio.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Figuras\\FrmTrapecio.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T17:59:18.187Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "FrmRhombus.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\User\\Downloads\\Figurasssss\\Figuras\\Figuras\\FrmRhombus.cs",
+              "RelativeDocumentMoniker": "Figuras\\FrmRhombus.cs",
+              "ToolTip": "C:\\Users\\User\\Downloads\\Figurasssss\\Figuras\\Figuras\\FrmRhombus.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Figuras\\FrmRhombus.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T17:59:00.043Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "FrmRhomboid.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\User\\Downloads\\Figurasssss\\Figuras\\Figuras\\FrmRhomboid.cs",
+              "RelativeDocumentMoniker": "Figuras\\FrmRhomboid.cs",
+              "ToolTip": "C:\\Users\\User\\Downloads\\Figurasssss\\Figuras\\Figuras\\FrmRhomboid.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Figuras\\FrmRhomboid.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T17:58:50.327Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "FrmPentagon.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\User\\Downloads\\Figurasssss\\Figuras\\Figuras\\FrmPentagon.cs",
+              "RelativeDocumentMoniker": "Figuras\\FrmPentagon.cs",
+              "ToolTip": "C:\\Users\\User\\Downloads\\Figurasssss\\Figuras\\Figuras\\FrmPentagon.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Figuras\\FrmPentagon.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T17:58:33.835Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "FrmOval.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\User\\Downloads\\Figurasssss\\Figuras\\Figuras\\FrmOval.cs",
+              "RelativeDocumentMoniker": "Figuras\\FrmOval.cs",
+              "ToolTip": "C:\\Users\\User\\Downloads\\Figurasssss\\Figuras\\Figuras\\FrmOval.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Figuras\\FrmOval.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T17:58:19.168Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "FrmOctagon.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\User\\Downloads\\Figurasssss\\Figuras\\Figuras\\FrmOctagon.cs",
+              "RelativeDocumentMoniker": "Figuras\\FrmOctagon.cs",
+              "ToolTip": "C:\\Users\\User\\Downloads\\Figurasssss\\Figuras\\Figuras\\FrmOctagon.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Figuras\\FrmOctagon.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T17:57:47.235Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "FrmHexagon.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\User\\Downloads\\Figurasssss\\Figuras\\Figuras\\FrmHexagon.cs",
+              "RelativeDocumentMoniker": "Figuras\\FrmHexagon.cs",
+              "ToolTip": "C:\\Users\\User\\Downloads\\Figurasssss\\Figuras\\Figuras\\FrmHexagon.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Figuras\\FrmHexagon.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T17:57:34.421Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "FrmEnneagon.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\User\\Downloads\\Figurasssss\\Figuras\\Figuras\\FrmEnneagon.cs",
+              "RelativeDocumentMoniker": "Figuras\\FrmEnneagon.cs",
+              "ToolTip": "C:\\Users\\User\\Downloads\\Figurasssss\\Figuras\\Figuras\\FrmEnneagon.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Figuras\\FrmEnneagon.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T17:57:00.064Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "FrmEllipse.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\User\\Downloads\\Figurasssss\\Figuras\\Figuras\\FrmEllipse.cs",
+              "RelativeDocumentMoniker": "Figuras\\FrmEllipse.cs",
+              "ToolTip": "C:\\Users\\User\\Downloads\\Figurasssss\\Figuras\\Figuras\\FrmEllipse.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Figuras\\FrmEllipse.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T17:56:40.68Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "FrmDecagon.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\User\\Downloads\\Figurasssss\\Figuras\\Figuras\\FrmDecagon.cs",
+              "RelativeDocumentMoniker": "Figuras\\FrmDecagon.cs",
+              "ToolTip": "C:\\Users\\User\\Downloads\\Figurasssss\\Figuras\\Figuras\\FrmDecagon.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Figuras\\FrmDecagon.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T17:56:06.416Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "FrmCircle.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\User\\Downloads\\Figurasssss\\Figuras\\Figuras\\FrmCircle.cs",
+              "RelativeDocumentMoniker": "Figuras\\FrmCircle.cs",
+              "ToolTip": "C:\\Users\\User\\Downloads\\Figurasssss\\Figuras\\Figuras\\FrmCircle.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Figuras\\FrmCircle.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T17:55:51.803Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CTrapecio.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Downloads\\Figurasssss\\Figuras\\Figuras\\CTrapecio.cs",
+              "RelativeDocumentMoniker": "Figuras\\CTrapecio.cs",
+              "ToolTip": "C:\\Users\\User\\Downloads\\Figurasssss\\Figuras\\Figuras\\CTrapecio.cs",
+              "RelativeToolTip": "Figuras\\CTrapecio.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwBUAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T17:40:55.031Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "CRhomboid.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Downloads\\Figurasssss\\Figuras\\Figuras\\CRhomboid.cs",
+              "RelativeDocumentMoniker": "Figuras\\CRhomboid.cs",
+              "ToolTip": "C:\\Users\\User\\Downloads\\Figurasssss\\Figuras\\Figuras\\CRhomboid.cs",
+              "RelativeToolTip": "Figuras\\CRhomboid.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAA1wGAAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T17:35:11.541Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "CDeltoid.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Downloads\\Figurasssss\\Figuras\\Figuras\\CDeltoid.cs",
+              "RelativeDocumentMoniker": "Figuras\\CDeltoid.cs",
+              "ToolTip": "C:\\Users\\User\\Downloads\\Figurasssss\\Figuras\\Figuras\\CDeltoid.cs",
+              "RelativeToolTip": "Figuras\\CDeltoid.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAQwCwAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T17:34:40.708Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "COval.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Downloads\\Figurasssss\\Figuras\\Figuras\\COval.cs",
+              "RelativeDocumentMoniker": "Figuras\\COval.cs",
+              "ToolTip": "C:\\Users\\User\\Downloads\\Figurasssss\\Figuras\\Figuras\\COval.cs",
+              "RelativeToolTip": "Figuras\\COval.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAYwCYAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T17:34:19.202Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "CHeptagon.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Downloads\\Figurasssss\\Figuras\\Figuras\\CHeptagon.cs",
+              "RelativeDocumentMoniker": "Figuras\\CHeptagon.cs",
+              "ToolTip": "C:\\Users\\User\\Downloads\\Figurasssss\\Figuras\\Figuras\\CHeptagon.cs",
+              "RelativeToolTip": "Figuras\\CHeptagon.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAADwv0MAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T17:33:56.393Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "CEnneagon.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Downloads\\Figurasssss\\Figuras\\Figuras\\CEnneagon.cs",
+              "RelativeDocumentMoniker": "Figuras\\CEnneagon.cs",
+              "ToolTip": "C:\\Users\\User\\Downloads\\Figurasssss\\Figuras\\Figuras\\CEnneagon.cs",
+              "RelativeToolTip": "Figuras\\CEnneagon.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAAA6wDsAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T17:33:35.514Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "CDecagon.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Downloads\\Figurasssss\\Figuras\\Figuras\\CDecagon.cs",
+              "RelativeDocumentMoniker": "Figuras\\CDecagon.cs",
+              "ToolTip": "C:\\Users\\User\\Downloads\\Figurasssss\\Figuras\\Figuras\\CDecagon.cs",
+              "RelativeToolTip": "Figuras\\CDecagon.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAcwC8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T17:32:30.598Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "COctagon.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Downloads\\Figurasssss\\Figuras\\Figuras\\COctagon.cs",
+              "RelativeDocumentMoniker": "Figuras\\COctagon.cs",
+              "ToolTip": "C:\\Users\\User\\Downloads\\Figurasssss\\Figuras\\Figuras\\COctagon.cs",
+              "RelativeToolTip": "Figuras\\COctagon.cs",
+              "ViewState": "AgIAAD4AAAAAAAAAAAAowEMAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T17:32:12.08Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "CIsoscelesTrapezoid.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Downloads\\Figurasssss\\Figuras\\Figuras\\CIsoscelesTrapezoid.cs",
+              "RelativeDocumentMoniker": "Figuras\\CIsoscelesTrapezoid.cs",
+              "ToolTip": "C:\\Users\\User\\Downloads\\Figurasssss\\Figuras\\Figuras\\CIsoscelesTrapezoid.cs",
+              "RelativeToolTip": "Figuras\\CIsoscelesTrapezoid.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAIwDIAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T17:31:20.494Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "CEllipse.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Downloads\\Figurasssss\\Figuras\\Figuras\\CEllipse.cs",
+              "RelativeDocumentMoniker": "Figuras\\CEllipse.cs",
+              "ToolTip": "C:\\Users\\User\\Downloads\\Figurasssss\\Figuras\\Figuras\\CEllipse.cs",
+              "RelativeToolTip": "Figuras\\CEllipse.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAIwEwAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T17:26:50.731Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CTrapezoid.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Downloads\\Figurasssss\\Figuras\\Figuras\\CTrapezoid.cs",
+              "RelativeDocumentMoniker": "Figuras\\CTrapezoid.cs",
+              "ToolTip": "C:\\Users\\User\\Downloads\\Figurasssss\\Figuras\\Figuras\\CTrapezoid.cs",
+              "RelativeToolTip": "Figuras\\CTrapezoid.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAuwCIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T17:26:20.261Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "CPentagon.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Downloads\\Figurasssss\\Figuras\\Figuras\\CPentagon.cs",
+              "RelativeDocumentMoniker": "Figuras\\CPentagon.cs",
+              "ToolTip": "C:\\Users\\User\\Downloads\\Figurasssss\\Figuras\\Figuras\\CPentagon.cs",
+              "RelativeToolTip": "Figuras\\CPentagon.cs",
+              "ViewState": "AgIAAD4AAAAAAAAAAAAowEMAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T17:25:29.159Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "CRhombus.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Downloads\\Figurasssss\\Figuras\\Figuras\\CRhombus.cs",
+              "RelativeDocumentMoniker": "Figuras\\CRhombus.cs",
+              "ToolTip": "C:\\Users\\User\\Downloads\\Figurasssss\\Figuras\\Figuras\\CRhombus.cs",
+              "RelativeToolTip": "Figuras\\CRhombus.cs",
+              "ViewState": "AgIAAFUAAAAAAAAAAAAwwFoAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T17:24:32.843Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "CCircle.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Downloads\\Figurasssss\\Figuras\\Figuras\\CCircle.cs",
+              "RelativeDocumentMoniker": "Figuras\\CCircle.cs",
+              "ToolTip": "C:\\Users\\User\\Downloads\\Figurasssss\\Figuras\\Figuras\\CCircle.cs",
+              "RelativeToolTip": "Figuras\\CCircle.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T17:24:09.635Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "CSquare.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Downloads\\Figurasssss\\Figuras\\Figuras\\CSquare.cs",
+              "RelativeDocumentMoniker": "Figuras\\CSquare.cs",
+              "ToolTip": "C:\\Users\\User\\Downloads\\Figurasssss\\Figuras\\Figuras\\CSquare.cs",
+              "RelativeToolTip": "Figuras\\CSquare.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEMAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T17:18:26.754Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "CTriangle.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Downloads\\Figurasssss\\Figuras\\Figuras\\CTriangle.cs",
+              "RelativeDocumentMoniker": "Figuras\\CTriangle.cs",
+              "ToolTip": "C:\\Users\\User\\Downloads\\Figurasssss\\Figuras\\Figuras\\CTriangle.cs",
+              "RelativeToolTip": "Figuras\\CTriangle.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T17:17:48.058Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Downloads\\Figurasssss\\Figuras\\Figuras\\Program.cs",
+              "RelativeDocumentMoniker": "Figuras\\Program.cs",
+              "ToolTip": "C:\\Users\\User\\Downloads\\Figurasssss\\Figuras\\Figuras\\Program.cs",
+              "RelativeToolTip": "Figuras\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-01T16:56:07.862Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "CRectangle.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Downloads\\Figurasssss\\Figuras\\Figuras\\CRectangle.cs",
+              "RelativeDocumentMoniker": "Figuras\\CRectangle.cs",
+              "ToolTip": "C:\\Users\\User\\Downloads\\Figurasssss\\Figuras\\Figuras\\CRectangle.cs",
+              "RelativeToolTip": "Figuras\\CRectangle.cs",
+              "ViewState": "AgIAAE0AAAAAAAAAAAAswDIAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-01T16:13:31.887Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "FrmRectangle.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Downloads\\Figurasssss\\Figuras\\Figuras\\FrmRectangle.Designer.cs",
+              "RelativeDocumentMoniker": "Figuras\\FrmRectangle.Designer.cs",
+              "ToolTip": "C:\\Users\\User\\Downloads\\Figurasssss\\Figuras\\Figuras\\FrmRectangle.Designer.cs",
+              "RelativeToolTip": "Figuras\\FrmRectangle.Designer.cs",
+              "ViewState": "AgIAANQAAAAAAAAAAAAYwOMAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-01T17:26:31.504Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "Figuras",
+              "DocumentMoniker": "C:\\Users\\User\\Downloads\\Figurasssss\\Figuras\\Figuras\\Figuras.csproj",
+              "RelativeDocumentMoniker": "Figuras\\Figuras.csproj",
+              "ToolTip": "C:\\Users\\User\\Desktop\\5to\\GR\u00C1FICA\\Parcial 1\\Taller 2\\Figuras\\Figuras\\Figuras.csproj*",
+              "RelativeToolTip": "..\\..\\..\\Desktop\\5to\\GR\u00C1FICA\\Parcial 1\\Taller 2\\Figuras\\Figuras\\Figuras.csproj*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-05-01T17:05:06.881Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "FrmRectangle.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Downloads\\Figurasssss\\Figuras\\Figuras\\FrmRectangle.cs",
+              "RelativeDocumentMoniker": "Figuras\\FrmRectangle.cs",
+              "ToolTip": "C:\\Users\\User\\Downloads\\Figurasssss\\Figuras\\Figuras\\FrmRectangle.cs",
+              "RelativeToolTip": "Figuras\\FrmRectangle.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAgwEoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-01T16:29:08.435Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "FrmRectangle.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\User\\Downloads\\Figurasssss\\Figuras\\Figuras\\FrmRectangle.cs",
+              "RelativeDocumentMoniker": "Figuras\\FrmRectangle.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\5to\\GR\u00C1FICA\\Parcial 1\\Taller 2\\Figuras\\Figuras\\FrmRectangle.cs [Dise\u00F1o]",
+              "RelativeToolTip": "..\\..\\..\\Desktop\\5to\\GR\u00C1FICA\\Parcial 1\\Taller 2\\Figuras\\Figuras\\FrmRectangle.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-01T16:44:57.909Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

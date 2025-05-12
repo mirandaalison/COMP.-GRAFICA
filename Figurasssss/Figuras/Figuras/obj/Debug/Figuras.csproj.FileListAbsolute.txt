@@ -1,0 +1,39 @@
+C:\Users\User\Desktop\5to\GRÁFICA\Parcial 1\Taller 2\Figuras\Figuras\obj\Debug\Figuras.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\5to\GRÁFICA\Parcial 1\Taller 2\Figuras\Figuras\obj\Debug\Figuras.frmRectangle.resources
+C:\Users\User\Desktop\5to\GRÁFICA\Parcial 1\Taller 2\Figuras\Figuras\obj\Debug\Figuras.Properties.Resources.resources
+C:\Users\User\Desktop\5to\GRÁFICA\Parcial 1\Taller 2\Figuras\Figuras\obj\Debug\Figuras.csproj.GenerateResource.cache
+C:\Users\User\Desktop\5to\GRÁFICA\Parcial 1\Taller 2\Figuras\Figuras\obj\Debug\Figuras.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\5to\GRÁFICA\Parcial 1\Taller 2\Figuras\Figuras\bin\Debug\Figuras.exe.config
+C:\Users\User\Desktop\5to\GRÁFICA\Parcial 1\Taller 2\Figuras\Figuras\bin\Debug\Figuras.exe
+C:\Users\User\Desktop\5to\GRÁFICA\Parcial 1\Taller 2\Figuras\Figuras\bin\Debug\Figuras.pdb
+C:\Users\User\Desktop\5to\GRÁFICA\Parcial 1\Taller 2\Figuras\Figuras\obj\Debug\Figuras.exe
+C:\Users\User\Desktop\5to\GRÁFICA\Parcial 1\Taller 2\Figuras\Figuras\obj\Debug\Figuras.pdb
+C:\Users\User\Desktop\5to\GRÁFICA\Parcial 1\Taller 2\Figuras\Figuras\obj\Debug\Figuras.FrmPrincipal.resources
+C:\Users\User\Downloads\Figurasssss\Figuras\Figuras\bin\Debug\Figuras.exe.config
+C:\Users\User\Downloads\Figurasssss\Figuras\Figuras\bin\Debug\Figuras.exe
+C:\Users\User\Downloads\Figurasssss\Figuras\Figuras\bin\Debug\Figuras.pdb
+C:\Users\User\Downloads\Figurasssss\Figuras\Figuras\obj\Debug\Figuras.csproj.AssemblyReference.cache
+C:\Users\User\Downloads\Figurasssss\Figuras\Figuras\obj\Debug\Figuras.FrmCircle.resources
+C:\Users\User\Downloads\Figurasssss\Figuras\Figuras\obj\Debug\Figuras.FrmDecagon.resources
+C:\Users\User\Downloads\Figurasssss\Figuras\Figuras\obj\Debug\Figuras.FrmDeltoid.resources
+C:\Users\User\Downloads\Figurasssss\Figuras\Figuras\obj\Debug\Figuras.FrmEllipse.resources
+C:\Users\User\Downloads\Figurasssss\Figuras\Figuras\obj\Debug\Figuras.FrmEnneagon.resources
+C:\Users\User\Downloads\Figurasssss\Figuras\Figuras\obj\Debug\Figuras.FrmHeptagon.resources
+C:\Users\User\Downloads\Figurasssss\Figuras\Figuras\obj\Debug\Figuras.FrmHexagon.resources
+C:\Users\User\Downloads\Figurasssss\Figuras\Figuras\obj\Debug\Figuras.FrmIsoscelesTrapezoid.resources
+C:\Users\User\Downloads\Figurasssss\Figuras\Figuras\obj\Debug\Figuras.FrmOctagon.resources
+C:\Users\User\Downloads\Figurasssss\Figuras\Figuras\obj\Debug\Figuras.FrmOval.resources
+C:\Users\User\Downloads\Figurasssss\Figuras\Figuras\obj\Debug\Figuras.FrmPentagon.resources
+C:\Users\User\Downloads\Figurasssss\Figuras\Figuras\obj\Debug\Figuras.FrmPrincipal.resources
+C:\Users\User\Downloads\Figurasssss\Figuras\Figuras\obj\Debug\Figuras.frmRectangle.resources
+C:\Users\User\Downloads\Figurasssss\Figuras\Figuras\obj\Debug\Figuras.FrmRhomboid.resources
+C:\Users\User\Downloads\Figurasssss\Figuras\Figuras\obj\Debug\Figuras.FrmRhombus.resources
+C:\Users\User\Downloads\Figurasssss\Figuras\Figuras\obj\Debug\Figuras.FrmSquare.resources
+C:\Users\User\Downloads\Figurasssss\Figuras\Figuras\obj\Debug\Figuras.FrmTrapecio.resources
+C:\Users\User\Downloads\Figurasssss\Figuras\Figuras\obj\Debug\Figuras.FrmTrapezoid.resources
+C:\Users\User\Downloads\Figurasssss\Figuras\Figuras\obj\Debug\Figuras.FrmTriangle.resources
+C:\Users\User\Downloads\Figurasssss\Figuras\Figuras\obj\Debug\Figuras.Properties.Resources.resources
+C:\Users\User\Downloads\Figurasssss\Figuras\Figuras\obj\Debug\Figuras.csproj.GenerateResource.cache
+C:\Users\User\Downloads\Figurasssss\Figuras\Figuras\obj\Debug\Figuras.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\Figurasssss\Figuras\Figuras\obj\Debug\Figuras.exe
+C:\Users\User\Downloads\Figurasssss\Figuras\Figuras\obj\Debug\Figuras.pdb

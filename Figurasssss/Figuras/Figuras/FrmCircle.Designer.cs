@@ -1,0 +1,175 @@
+﻿namespace Figuras
+{
+    partial class FrmCircle
+    {
+        /// <summary>
+        /// Required designer variable.
+        /// </summary>
+        private System.ComponentModel.IContainer components = null;
+
+        /// <summary>
+        /// Clean up any resources being used.
+        /// </summary>
+        /// <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        protected override void Dispose(bool disposing)
+        {
+            if (disposing && (components != null))
+            {
+                components.Dispose();
+            }
+            base.Dispose(disposing);
+        }
+
+        #region Windows Form Designer generated code
+
+        /// <summary>
+        /// Required method for Designer support - do not modify
+        /// the contents of this method with the code editor.
+        /// </summary>
+        private void InitializeComponent()
+        {
+            this.lblInstruccion = new System.Windows.Forms.Label();
+            this.grbOutput = new System.Windows.Forms.GroupBox();
+            this.txtPerimeter = new System.Windows.Forms.TextBox();
+            this.txtArea = new System.Windows.Forms.TextBox();
+            this.lblPerimeter = new System.Windows.Forms.Label();
+            this.lblArea = new System.Windows.Forms.Label();
+            this.grbInput = new System.Windows.Forms.GroupBox();
+            this.lblRadius = new System.Windows.Forms.Label();
+            this.txtRadius = new System.Windows.Forms.TextBox();
+            this.btnCalculate = new System.Windows.Forms.Button();
+            this.grbOutput.SuspendLayout();
+            this.grbInput.SuspendLayout();
+            this.SuspendLayout();
+            // 
+            // lblInstruccion
+            // 
+            this.lblInstruccion.AutoSize = true;
+            this.lblInstruccion.Font = new System.Drawing.Font("Microsoft Sans Serif", 13.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lblInstruccion.Location = new System.Drawing.Point(24, 22);
+            this.lblInstruccion.Name = "lblInstruccion";
+            this.lblInstruccion.Size = new System.Drawing.Size(385, 29);
+            this.lblInstruccion.TabIndex = 10;
+            this.lblInstruccion.Text = "Ingrese las dimesiones del círculo:";
+            // 
+            // grbOutput
+            // 
+            this.grbOutput.Controls.Add(this.txtPerimeter);
+            this.grbOutput.Controls.Add(this.txtArea);
+            this.grbOutput.Controls.Add(this.lblPerimeter);
+            this.grbOutput.Controls.Add(this.lblArea);
+            this.grbOutput.Location = new System.Drawing.Point(29, 270);
+            this.grbOutput.Name = "grbOutput";
+            this.grbOutput.Size = new System.Drawing.Size(356, 156);
+            this.grbOutput.TabIndex = 9;
+            this.grbOutput.TabStop = false;
+            this.grbOutput.Text = "Salidas";
+            // 
+            // txtPerimeter
+            // 
+            this.txtPerimeter.Location = new System.Drawing.Point(143, 101);
+            this.txtPerimeter.Name = "txtPerimeter";
+            this.txtPerimeter.ReadOnly = true;
+            this.txtPerimeter.Size = new System.Drawing.Size(107, 22);
+            this.txtPerimeter.TabIndex = 4;
+            // 
+            // txtArea
+            // 
+            this.txtArea.Location = new System.Drawing.Point(143, 46);
+            this.txtArea.Name = "txtArea";
+            this.txtArea.ReadOnly = true;
+            this.txtArea.Size = new System.Drawing.Size(107, 22);
+            this.txtArea.TabIndex = 2;
+            // 
+            // lblPerimeter
+            // 
+            this.lblPerimeter.AutoSize = true;
+            this.lblPerimeter.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lblPerimeter.Location = new System.Drawing.Point(24, 101);
+            this.lblPerimeter.Name = "lblPerimeter";
+            this.lblPerimeter.Size = new System.Drawing.Size(91, 20);
+            this.lblPerimeter.TabIndex = 3;
+            this.lblPerimeter.Text = "Perímetro";
+            // 
+            // lblArea
+            // 
+            this.lblArea.AutoSize = true;
+            this.lblArea.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lblArea.Location = new System.Drawing.Point(24, 48);
+            this.lblArea.Name = "lblArea";
+            this.lblArea.Size = new System.Drawing.Size(48, 20);
+            this.lblArea.TabIndex = 2;
+            this.lblArea.Text = "Area";
+            // 
+            // grbInput
+            // 
+            this.grbInput.Controls.Add(this.btnCalculate);
+            this.grbInput.Controls.Add(this.lblRadius);
+            this.grbInput.Controls.Add(this.txtRadius);
+            this.grbInput.Location = new System.Drawing.Point(29, 77);
+            this.grbInput.Name = "grbInput";
+            this.grbInput.Size = new System.Drawing.Size(356, 169);
+            this.grbInput.TabIndex = 8;
+            this.grbInput.TabStop = false;
+            this.grbInput.Text = "Entradas";
+            // 
+            // lblRadius
+            // 
+            this.lblRadius.AutoSize = true;
+            this.lblRadius.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lblRadius.Location = new System.Drawing.Point(36, 52);
+            this.lblRadius.Name = "lblRadius";
+            this.lblRadius.Size = new System.Drawing.Size(57, 20);
+            this.lblRadius.TabIndex = 0;
+            this.lblRadius.Text = "Radio";
+            // 
+            // txtRadius
+            // 
+            this.txtRadius.Location = new System.Drawing.Point(126, 50);
+            this.txtRadius.Name = "txtRadius";
+            this.txtRadius.Size = new System.Drawing.Size(107, 22);
+            this.txtRadius.TabIndex = 1;
+            // 
+            // btnCalculate
+            // 
+            this.btnCalculate.Location = new System.Drawing.Point(92, 110);
+            this.btnCalculate.Name = "btnCalculate";
+            this.btnCalculate.Size = new System.Drawing.Size(141, 23);
+            this.btnCalculate.TabIndex = 2;
+            this.btnCalculate.Text = "CALCULAR";
+            this.btnCalculate.UseVisualStyleBackColor = true;
+            this.btnCalculate.Click += new System.EventHandler(this.btnCalculate_Click);
+            // 
+            // FrmCircle
+            // 
+            this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
+            this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
+            this.ClientSize = new System.Drawing.Size(473, 450);
+            this.Controls.Add(this.lblInstruccion);
+            this.Controls.Add(this.grbOutput);
+            this.Controls.Add(this.grbInput);
+            this.Name = "FrmCircle";
+            this.Text = "FrmCircle";
+            this.grbOutput.ResumeLayout(false);
+            this.grbOutput.PerformLayout();
+            this.grbInput.ResumeLayout(false);
+            this.grbInput.PerformLayout();
+            this.ResumeLayout(false);
+            this.PerformLayout();
+
+        }
+
+        #endregion
+
+        private System.Windows.Forms.Label lblInstruccion;
+        private System.Windows.Forms.GroupBox grbOutput;
+        private System.Windows.Forms.TextBox txtPerimeter;
+        private System.Windows.Forms.TextBox txtArea;
+        private System.Windows.Forms.Label lblPerimeter;
+        private System.Windows.Forms.Label lblArea;
+        private System.Windows.Forms.GroupBox grbInput;
+        private System.Windows.Forms.Label lblRadius;
+        private System.Windows.Forms.TextBox txtRadius;
+        private System.Windows.Forms.Button btnCalculate;
+    }
+}
