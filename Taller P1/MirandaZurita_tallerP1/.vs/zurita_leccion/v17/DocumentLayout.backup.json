@@ -1,0 +1,169 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\Downloads\\zurita_leccion\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3016E04E-537A-443D-9969-E1DD7A6116ED}|zurita_leccion\\zurita_leccion.csproj|c:\\users\\user\\downloads\\zurita_leccion\\zurita_leccion\\frmprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3016E04E-537A-443D-9969-E1DD7A6116ED}|zurita_leccion\\zurita_leccion.csproj|solutionrelative:zurita_leccion\\frmprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3016E04E-537A-443D-9969-E1DD7A6116ED}|zurita_leccion\\zurita_leccion.csproj|c:\\users\\user\\downloads\\zurita_leccion\\zurita_leccion\\frmprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3016E04E-537A-443D-9969-E1DD7A6116ED}|zurita_leccion\\zurita_leccion.csproj|solutionrelative:zurita_leccion\\frmprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3016E04E-537A-443D-9969-E1DD7A6116ED}|zurita_leccion\\zurita_leccion.csproj|c:\\users\\user\\downloads\\zurita_leccion\\zurita_leccion\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3016E04E-537A-443D-9969-E1DD7A6116ED}|zurita_leccion\\zurita_leccion.csproj|solutionrelative:zurita_leccion\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3016E04E-537A-443D-9969-E1DD7A6116ED}|zurita_leccion\\zurita_leccion.csproj|c:\\users\\user\\downloads\\zurita_leccion\\zurita_leccion\\cestrella1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3016E04E-537A-443D-9969-E1DD7A6116ED}|zurita_leccion\\zurita_leccion.csproj|solutionrelative:zurita_leccion\\cestrella1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3016E04E-537A-443D-9969-E1DD7A6116ED}|zurita_leccion\\zurita_leccion.csproj|C:\\Users\\User\\Downloads\\zurita_leccion\\zurita_leccion\\figuras.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3016E04E-537A-443D-9969-E1DD7A6116ED}|zurita_leccion\\zurita_leccion.csproj|solutionrelative:zurita_leccion\\figuras.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3016E04E-537A-443D-9969-E1DD7A6116ED}|zurita_leccion\\zurita_leccion.csproj|c:\\users\\user\\downloads\\zurita_leccion\\zurita_leccion\\cfiguras.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3016E04E-537A-443D-9969-E1DD7A6116ED}|zurita_leccion\\zurita_leccion.csproj|solutionrelative:zurita_leccion\\cfiguras.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3016E04E-537A-443D-9969-E1DD7A6116ED}|zurita_leccion\\zurita_leccion.csproj|c:\\users\\user\\downloads\\zurita_leccion\\zurita_leccion\\figuras.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3016E04E-537A-443D-9969-E1DD7A6116ED}|zurita_leccion\\zurita_leccion.csproj|solutionrelative:zurita_leccion\\figuras.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3016E04E-537A-443D-9969-E1DD7A6116ED}|zurita_leccion\\zurita_leccion.csproj|C:\\Users\\User\\Downloads\\zurita_leccion\\zurita_leccion\\cstar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3016E04E-537A-443D-9969-E1DD7A6116ED}|zurita_leccion\\zurita_leccion.csproj|solutionrelative:zurita_leccion\\cstar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 246,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{131369f2-062d-44a2-8671-91ff31efb4f4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FrmPrincipal.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Downloads\\zurita_leccion\\zurita_leccion\\FrmPrincipal.cs",
+              "RelativeDocumentMoniker": "zurita_leccion\\FrmPrincipal.cs",
+              "ToolTip": "C:\\Users\\User\\Downloads\\zurita_leccion\\zurita_leccion\\FrmPrincipal.cs",
+              "RelativeToolTip": "zurita_leccion\\FrmPrincipal.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAAABUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T17:24:23.323Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Downloads\\zurita_leccion\\zurita_leccion\\Program.cs",
+              "RelativeDocumentMoniker": "zurita_leccion\\Program.cs",
+              "ToolTip": "C:\\Users\\User\\Downloads\\zurita_leccion\\zurita_leccion\\Program.cs",
+              "RelativeToolTip": "zurita_leccion\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T17:24:07.477Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FrmPrincipal.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\User\\Downloads\\zurita_leccion\\zurita_leccion\\FrmPrincipal.cs",
+              "RelativeDocumentMoniker": "zurita_leccion\\FrmPrincipal.cs",
+              "ToolTip": "C:\\Users\\User\\Downloads\\zurita_leccion\\zurita_leccion\\FrmPrincipal.cs [Dise\u00F1o]",
+              "RelativeToolTip": "zurita_leccion\\FrmPrincipal.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T17:22:10.067Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CEstrella1.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Downloads\\zurita_leccion\\zurita_leccion\\CEstrella1.cs",
+              "RelativeDocumentMoniker": "zurita_leccion\\CEstrella1.cs",
+              "ToolTip": "C:\\Users\\User\\Downloads\\zurita_leccion\\zurita_leccion\\CEstrella1.cs",
+              "RelativeToolTip": "zurita_leccion\\CEstrella1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAE0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T17:20:03.303Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "cFiguras.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Downloads\\zurita_leccion\\zurita_leccion\\cFiguras.cs",
+              "RelativeDocumentMoniker": "zurita_leccion\\cFiguras.cs",
+              "ToolTip": "C:\\Users\\User\\Downloads\\zurita_leccion\\zurita_leccion\\cFiguras.cs",
+              "RelativeToolTip": "zurita_leccion\\cFiguras.cs",
+              "ViewState": "AgIAAGEAAAAAAAAAAAAwwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T17:17:09.039Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "cStar.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Downloads\\zurita_leccion\\zurita_leccion\\cStar.cs",
+              "RelativeDocumentMoniker": "zurita_leccion\\cStar.cs",
+              "ToolTip": "C:\\Users\\User\\Downloads\\zurita_leccion\\zurita_leccion\\cStar.cs",
+              "RelativeToolTip": "zurita_leccion\\cStar.cs",
+              "ViewState": "AgIAADYAAAAAAAAAAADwv0QAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T16:25:49.441Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "figuras.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Downloads\\zurita_leccion\\zurita_leccion\\figuras.cs",
+              "RelativeDocumentMoniker": "zurita_leccion\\figuras.cs",
+              "ToolTip": "C:\\Users\\User\\Downloads\\zurita_leccion\\zurita_leccion\\figuras.cs",
+              "RelativeToolTip": "zurita_leccion\\figuras.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAIUAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T16:18:00.614Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "figuras.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\User\\Downloads\\zurita_leccion\\zurita_leccion\\figuras.cs",
+              "RelativeDocumentMoniker": "zurita_leccion\\figuras.cs",
+              "ToolTip": "C:\\Users\\User\\Downloads\\zurita_leccion\\zurita_leccion\\figuras.cs [Dise\u00F1o]",
+              "RelativeToolTip": "zurita_leccion\\figuras.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T16:10:10.975Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

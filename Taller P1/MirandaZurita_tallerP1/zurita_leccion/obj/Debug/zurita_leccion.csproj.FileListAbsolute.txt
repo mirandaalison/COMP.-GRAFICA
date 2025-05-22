@@ -1,0 +1,22 @@
+D:\OneDrive - UNIVERSIDAD DE LAS FUERZAS ARMADAS ESPE\ESPE\6to Semestre\D_Grafica\zurita_leccion\zurita_leccion\bin\Debug\zurita_leccion.exe.config
+D:\OneDrive - UNIVERSIDAD DE LAS FUERZAS ARMADAS ESPE\ESPE\6to Semestre\D_Grafica\zurita_leccion\zurita_leccion\bin\Debug\zurita_leccion.exe
+D:\OneDrive - UNIVERSIDAD DE LAS FUERZAS ARMADAS ESPE\ESPE\6to Semestre\D_Grafica\zurita_leccion\zurita_leccion\bin\Debug\zurita_leccion.pdb
+D:\OneDrive - UNIVERSIDAD DE LAS FUERZAS ARMADAS ESPE\ESPE\6to Semestre\D_Grafica\zurita_leccion\zurita_leccion\obj\Debug\zurita_leccion.csproj.AssemblyReference.cache
+D:\OneDrive - UNIVERSIDAD DE LAS FUERZAS ARMADAS ESPE\ESPE\6to Semestre\D_Grafica\zurita_leccion\zurita_leccion\obj\Debug\zurita_leccion.figuras.resources
+D:\OneDrive - UNIVERSIDAD DE LAS FUERZAS ARMADAS ESPE\ESPE\6to Semestre\D_Grafica\zurita_leccion\zurita_leccion\obj\Debug\zurita_leccion.Properties.Resources.resources
+D:\OneDrive - UNIVERSIDAD DE LAS FUERZAS ARMADAS ESPE\ESPE\6to Semestre\D_Grafica\zurita_leccion\zurita_leccion\obj\Debug\zurita_leccion.csproj.GenerateResource.cache
+D:\OneDrive - UNIVERSIDAD DE LAS FUERZAS ARMADAS ESPE\ESPE\6to Semestre\D_Grafica\zurita_leccion\zurita_leccion\obj\Debug\zurita_leccion.csproj.CoreCompileInputs.cache
+D:\OneDrive - UNIVERSIDAD DE LAS FUERZAS ARMADAS ESPE\ESPE\6to Semestre\D_Grafica\zurita_leccion\zurita_leccion\obj\Debug\zurita_leccion.exe
+D:\OneDrive - UNIVERSIDAD DE LAS FUERZAS ARMADAS ESPE\ESPE\6to Semestre\D_Grafica\zurita_leccion\zurita_leccion\obj\Debug\zurita_leccion.pdb
+C:\Users\User\Downloads\zurita_leccion\zurita_leccion\bin\Debug\zurita_leccion.exe.config
+C:\Users\User\Downloads\zurita_leccion\zurita_leccion\bin\Debug\zurita_leccion.exe
+C:\Users\User\Downloads\zurita_leccion\zurita_leccion\bin\Debug\zurita_leccion.pdb
+C:\Users\User\Downloads\zurita_leccion\zurita_leccion\obj\Debug\zurita_leccion.csproj.AssemblyReference.cache
+C:\Users\User\Downloads\zurita_leccion\zurita_leccion\obj\Debug\zurita_leccion.figuras.resources
+C:\Users\User\Downloads\zurita_leccion\zurita_leccion\obj\Debug\TallerEstrella.FrmEstrella1.resources
+C:\Users\User\Downloads\zurita_leccion\zurita_leccion\obj\Debug\zurita_leccion.FrmPrincipal.resources
+C:\Users\User\Downloads\zurita_leccion\zurita_leccion\obj\Debug\zurita_leccion.Properties.Resources.resources
+C:\Users\User\Downloads\zurita_leccion\zurita_leccion\obj\Debug\zurita_leccion.csproj.GenerateResource.cache
+C:\Users\User\Downloads\zurita_leccion\zurita_leccion\obj\Debug\zurita_leccion.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\zurita_leccion\zurita_leccion\obj\Debug\zurita_leccion.exe
+C:\Users\User\Downloads\zurita_leccion\zurita_leccion\obj\Debug\zurita_leccion.pdb
